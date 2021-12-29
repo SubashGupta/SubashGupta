@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SubashGupta
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and Development
 - 🌱 I’m currently learning Advanced Python and JavaScript
 - 💞️ I’m looking to collaborate on Python and Web Development projects
 <!---
