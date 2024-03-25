@@ -51,12 +51,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <!-- View-My-Images Repository -->
 <a href="https://github.com/SubashGupta/View-My-Images" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&repo=View-My-Images&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&repo=View-My-Images&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&cache_buster=1" />
 </a>
 
 <!-- studentmanagementsystemseproject Repository -->
 <a href="https://github.com/SubashGupta/studentmanagementsystemseproject" align="right">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&repo=studentmanagementsystemseproject&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&repo=studentmanagementsystemseproject&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&cache_buster=1" />
 </a>
+
 </div>
 <br /><br /><br /><br /><br /><br /><br />
