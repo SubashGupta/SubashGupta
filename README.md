@@ -16,9 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="40" height="40"/>
   </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
-    <img src="https://instructobit.com/static/posts/111/ECHUS82IWZWS55YQOLWQD8PM1NKIM5WQLPNAXF1VF3P5526CDQ.jpg" alt="Flask" width="40" height="40"/>
-  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="MongoDB" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="40" height="40"/>
   </a>
@@ -39,8 +37,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 <h3 align="left">Frameworks and Tools:</h3>
-<p align="left">  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> 
+<p align="left"> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;"><img src="https://instructobit.com/static/posts/111/ECHUS82IWZWS55YQOLWQD8PM1NKIM5WQLPNAXF1VF3P5526CDQ.jpg" alt="Flask" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  
