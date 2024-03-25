@@ -50,15 +50,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SubashGupta">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubashGupta&show_icons=true&theme=radical&border_radius=20&hide=contribs,prs&hide_rank=true&include_all_commits=true" alt="SubashGupta's GitHub stats"/>
-</a>
+<div style="position: relative;">
+  <a href="http://www.github.com/SubashGupta">
+    <img src="https://github-readme-stats.vercel.app/api?username=SubashGupta&show_icons=true&theme=radical&border_radius=20&hide=contribs,prs&hide_rank=true&include_all_commits=true" alt="SubashGupta's GitHub stats"/>
+  </a>
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Logo" style="position: absolute; top: 10px; left: 10px; width: 40px; height: 40px;"/>
+</div>
+
 
 <br>
 <a href="http://www.github.com/SubashGupta"><img src="https://github-readme-streak-stats.herokuapp.com?user=SubashGupta&theme=dark&border_radius=20&area_color=1c1917" alt="GitHub Streak" /></a>
 <br>
 <a href="https://github.com/SubashGupta" align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&layout=donut-vertical&hide=Jupyter%20Notebook&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=20&locale=en" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&layout=donut&hide=Jupyter%20Notebook&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=20&locale=en" alt="Top Languages"/>
 </a>
 
 <!--
