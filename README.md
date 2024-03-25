@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubashGupta&label=Profile%20views&color=0e75b6&style=flat" alt="SubashGupta" /> </p>
 
-<h3 align="left">Languages & Frameworks:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="40" height="40"/>
