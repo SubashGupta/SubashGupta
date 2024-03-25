@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================================
 <h4>A Software Engineer | Python Developer</h4>
 
-- 🔭 I’m currently working on a MERN Project
+- 🔭 I’m currently working on imporving my DSA Skills
 - 🌱 I’m interested in Coding and Development
 - 💞️ I’m looking to collaborate on Python and Web Development projects
 - 💬 Ask me about Technology & Python
@@ -42,21 +42,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <a href="http://www.github.com/SubashGupta"><img src="https://github-readme-streak-stats.herokuapp.com?user=SubashGupta&theme=dark&border_radius=20&area_color=1c1917" alt="GitHub Streak" /></a>
 <br>
-<a href="https://github.com/SubashGupta" align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=20&locale=en&custom_title=Top Languages" alt="Top Languages"/></a>
-
+<a href="https://github.com/SubashGupta" align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=20&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
+</a>
 
 <b>My Top Repositories</b>
 
 <div width="100%" align="center">
-
 <!-- View-My-Images Repository -->
 <a href="https://github.com/SubashGupta/View-My-Images" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&repo=View-My-Images&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&cache_buster=1" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&repo=View-My-Images&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" />
 </a>
 
 <!-- studentmanagementsystemseproject Repository -->
 <a href="https://github.com/SubashGupta/studentmanagementsystemseproject" align="right">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&repo=studentmanagementsystemseproject&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&cache_buster=1" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&repo=studentmanagementsystemseproject&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" />
 </a>
 
 </div>
