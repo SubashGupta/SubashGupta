@@ -38,12 +38,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SubashGupta"><img src="https://github-readme-stats.vercel.app/api?username=SubashGupta&show_icons=true&theme=radical&hide=contribs,prs" alt="SubashGupta's GitHub stats"/</a>
+<a href="http://www.github.com/SubashGupta"><img src="https://github-readme-stats.vercel.app/api?username=SubashGupta&show_icons=true&theme=radical&hide=contribs,prs" alt="SubashGupta's GitHub stats"/></a>
 <a href="http://www.github.com/SubashGupta"><img src="https://github-readme-streak-stats.herokuapp.com?user=SubashGupta&theme=dark&border_radius=20&area_color=1c1917" alt="GitHub Streak" /></a>
-
-<a href="http://www.github.com/SubashGupta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SubashGupta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/SubashGupta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&langs_count=5&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/SubashGupta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%10%Languages" alt="Top Languages" /></a>
 
 <b>My Top Repositories</b>
 
