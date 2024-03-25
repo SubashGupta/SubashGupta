@@ -7,23 +7,35 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 💞️ I’m looking to collaborate on Python and Web Development projects
 - 💬 Ask me about Technology & Python
 - 📫 How to reach me: karamsettysubashgupta@gmail.com
-- ⚡ My current Study: I'm currently studying Master's in Computer Science @ Florida Atlantic University
+- ⚡ I'm currently studying Master's in Computer Science @ Florida Atlantic University with a 4.0/4.0 GPA
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubashGupta&label=Profile%20views&color=0e75b6&style=flat" alt="SubashGupta" /> </p>
 
 <h3 align="left">Languages & Frameworks:</h3>
 <p align="left"> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://instructobit.com/static/posts/111/ECHUS82IWZWS55YQOLWQD8PM1NKIM5WQLPNAXF1VF3P5526CDQ.jpg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="40" height="40"/>
+  </a> 
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://instructobit.com/static/posts/111/ECHUS82IWZWS55YQOLWQD8PM1NKIM5WQLPNAXF1VF3P5526CDQ.jpg" alt="Flask" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="40" height="40"/>
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML" width="40" height="40" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML" width="40" height="40"/>
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="CSS" width="40" height="40"/></a>
-
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="40" height="40"/></a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Frameworks and Tools:</h3>
@@ -46,6 +58,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashGupta&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&border_radius=20&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
 </a>
 
+<!--
 <b>My Top Repositories</b>
 
 <div width="100%" align="center">
@@ -61,4 +74,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 </div>
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /> 
+
+-->
