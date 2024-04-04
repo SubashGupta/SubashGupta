@@ -2,15 +2,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================================
 <h4>A Software Engineer | Python Developer</h4>
 
-- 🔭 I’m currently working on imporving my DSA Skills
+# 💫 About Me:
+- 🔭 I’m currently working on imporving my DSA Skills and learning React.js parallely
 - 🌱 I’m interested in Coding and Development
 - 💞️ I’m looking to collaborate on Python and Web Development projects
-- 💬 Ask me about Technology & Python
+- 💬 You can ask me about anything related to Python, Flask, SQL, JavaScript, Web Development, I'm always happy to share knowledge and insights!
 - 📫 How to reach me: karamsettysubashgupta@gmail.com
 - ⚡ I'm currently studying Master's in Computer Science @ Florida Atlantic University with a 4.0/4.0 GPA
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/aasish-chunduri](https://www.linkedin.com/in/subash-gupta-karamsetty-8364b7167)) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubashGupta&label=Profile%20views&color=0e75b6&style=flat" alt="SubashGupta" /> </p>
-<p align="left"> <img src="https://www.linkedin.com/in/subash-gupta-karamsetty-8364b7167/&label=My%20LinkedIn&color=0e75b6&style=flat" alt="LinkedIn" /> </p>
+
+# 💻 Tech Stack:
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
@@ -46,7 +50,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>
 </p>
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
 
 <a href="http://www.github.com/SubashGupta">
   <img src="https://github-readme-stats.vercel.app/api?username=SubashGupta&show_icons=true&theme=radical&border_radius=20&hide=contribs,prs&hide_rank=true&include_all_commits=true" alt="SubashGupta's GitHub stats"/>
