@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - ⚡ I'm currently studying Master's in Computer Science @ Florida Atlantic University with a 4.0/4.0 GPA
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-gupta-karamsetty-8364b7167)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-gupta-karamsetty-8364b7167){:target="_blank"}
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubashGupta&label=Profile%20views&color=0e75b6&style=flat" alt="SubashGupta" /> </p>
 
 # 💻 Tech Stack:
