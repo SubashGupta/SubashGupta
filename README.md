@@ -3,12 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4>A Software Engineer | Python Developer</h4>
 
 # 💫 About Me:
-- 🔭 I’m currently working on imporving my DSA Skills and learning React.js parallely
-- 🌱 I’m interested in Coding and Development
+- 🔭 I’m currently working on imporving my DSA Skills and parallely learning React.js
+- 🌱 I’m interested in Data, Deep Learning Models, Coding and Development
 - 💞️ I’m looking to collaborate on Python and Web Development projects
-- 💬 You can ask me about anything related to Python, Flask, SQL, JavaScript, Web Development, I'm always happy to share knowledge and insights!
+- 💬 You can ask me about anything related to Python, Flask, SQL, JavaScript, Web Development, Deep Learning Models. I'm always happy to share knowledge and insights!
 - 📫 How to reach me: karamsettysubashgupta@gmail.com
-- ⚡ I'm currently studying Master's in Computer Science @ Florida Atlantic University with a 4.0/4.0 GPA
+- ⚡ I hold a Master's degree in Computer Science from Florida Atlantic University, with a perfect 4.0/4.0 GPA.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-gupta-karamsetty-8364b7167)
