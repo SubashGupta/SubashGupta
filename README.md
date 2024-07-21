@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 I’m currently working on imporving my DSA Skills and parallely learning React.js
 - 🌱 I’m interested in Data, Deep Learning Models, Coding and Development
 - 💞️ I’m looking to collaborate on Python and Web Development projects
-- 💬 You can ask me about anything related to Python, Flask, SQL, JavaScript, Web Development, Deep Learning Models. I'm always happy to share knowledge and insights!
+- 💬 You can ask me about anything related to Python, Flask, Django, SQL, JavaScript, Web Development, Deep Learning Models. I'm always happy to share knowledge and insights!
 - 📫 How to reach me: karamsettysubashgupta@gmail.com
 - ⚡ I hold a Master's degree in Computer Science from Florida Atlantic University, with a perfect 4.0/4.0 GPA.
 
@@ -43,6 +43,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left"> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;"><img src="https://instructobit.com/static/posts/111/ECHUS82IWZWS55YQOLWQD8PM1NKIM5WQLPNAXF1VF3P5526CDQ.jpg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;"><img src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png" alt="Django" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  
